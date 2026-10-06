@@ -51,7 +51,7 @@ brews:
       name: homebrew-tap
       token: "{{ .Env.HOMEBREW_TAP_GITHUB_TOKEN }}"
     directory: Formula
-    homepage: https://github.com/davaba86/agentfiles
+    homepage: https://github.com/davaba86/mc-tooling-agentfiles
     description: Standardize AI coding-agent instruction files across repositories
     license: MIT
     test: |
